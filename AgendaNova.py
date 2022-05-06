@@ -1,3 +1,4 @@
+# agenda pág 252 a 260
 import sys
 import pickle 
 from functools import total_ordering
